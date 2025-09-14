@@ -43,4 +43,17 @@ Experiment with other machine learning and deep learning models
 Deploy a user-friendly web app for real-time prediction and recommendations
 
 License
+
+Author
+
+[Rohith Kumar Reddipogula]
+
+MSc Data Science Student, Berlin, Germany
+
+Email: [rohith.reddipogula@outlook.com]
+
+LinkedIn: [(https://www.linkedin.com/in/rohith-kumar-reddipogula-a6692030b/)]
+
+GitHub: [https://github.com/Rohithkumar999]
+
 This project is licensed under the MIT License
