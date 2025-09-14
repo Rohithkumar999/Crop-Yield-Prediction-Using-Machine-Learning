@@ -8,6 +8,12 @@ This project aims to predict agricultural crop yields using machine learning tec
 <img width="490" height="490" alt="image" src="https://github.com/user-attachments/assets/40255ccc-830f-4b85-8fa0-8a4506218fd5" />
 
 
+
+![Alt text](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/3dd9f384-5833-4b10-9fdc-d6afc458a1ad.png)
+
+
+
+
 Features
 Data preprocessing including encoding categorical variables
 
