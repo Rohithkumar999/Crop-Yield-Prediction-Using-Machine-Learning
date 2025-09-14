@@ -19,8 +19,7 @@ Feature importance analysis to interpret influential factors on yield outcomes
 Installation
 Clone the repository:
 
-bash
-git clone https://github.com/yourusername/crop-yield-prediction.git
+git
 Install required dependencies:
 
 bash
