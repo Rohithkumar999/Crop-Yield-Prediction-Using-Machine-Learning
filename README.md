@@ -5,6 +5,8 @@ Crop Yield Prediction Using Machine Learning
 Project Overview
 This project aims to predict agricultural crop yields using machine learning techniques based on environmental, soil, and crop-specific features. By analyzing variables such as soil moisture, temperature, rainfall, NDVI (vegetation index), crop type, and seasonality, the model forecasts crop yields with high accuracy. This helps support informed decision-making for farmers and agricultural planners, enabling optimized resource allocation and improved crop management.
 
+[![Alt text](images/myimage.png)](https://github.com/username/repo)
+
 Features
 Data preprocessing including encoding categorical variables
 
